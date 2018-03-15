@@ -1,0 +1,9 @@
+# file: ~/.gitignore
+#for mac
+.DS_Store
+
+#for intellij
+.idea
+*.iml
+*.iws
+*.class
